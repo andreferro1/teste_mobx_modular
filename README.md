@@ -6,4 +6,4 @@
     
     #pra rodar:
         flutter pub get
-        flutter pub run build_runner_build
+        flutter pub run build_runner build
